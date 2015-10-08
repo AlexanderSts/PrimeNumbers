@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PrimeNumbers</string>
+    <string name="min_value">3</string>
+    <string name="max_value">2147483647</string>
+    <string name="max_recommended_value">500000</string>
+    <string name="cache_file_name">prime_numbers.dat</string>
+    <string name="txt_need_long">You need long value in input field.</string>
+    <string name="txt_need_diapason_begin">Value mast be between </string>
+    <string name="txt_need_diapason_center"> and </string>
+    <string name="txt_need_diapason_end"> , recommended maximum (and cached maximum) is </string>
+    <string name="btn_start">Start</string>
+    <string name="menu_clear">Clear cache</string>
+    <string name="txt_cache_cleared">Cache cleared</string>
+    <string name="txt_cache_from">Wait... Loading cached file</string>
+    <string name="txt_wait_caching">Wait... Caching</string>
+    <string name="txt_wait_percent_start">Wait... Processing, about </string>
+    <string name="txt_wait_percent_end">% complete</string>
+</resources>
